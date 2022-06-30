@@ -12,7 +12,7 @@ hackintosh！
 | 硬盘     | SP580M                   |
 | 网卡     | 瑞昱8821                 |
 | 蓝牙     | 无                       |
-| 显卡     | uhd630                   |
+| 显卡     | Intel UHD Graphics G1    |
 | 系统版本 | 10.15.7～12.5Beta1        |
 
 
